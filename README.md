@@ -127,7 +127,7 @@ Server will run on: [http://localhost:5000](http://localhost:5000)
 ## 🧑‍💻 OWNER
 
 Made with 💻 by [ DEVEN MAHAJAN ]
-With team meMbers Ojha Vinayak,Shree Kumbhar,Gaurav More
+With Team Members Ojha Vinayak,Shree Kumbhar,Gaurav More
 
 
 ---
