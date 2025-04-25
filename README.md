@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Hack Era - Backend
 
 This is the backend for **Hack Era**, a competitive programming platform built with Node.js, Express, and Supabase. It supports features like problem solving, contest participation, 1v1 challenges, leaderboard tracking, and user profiles.
@@ -125,9 +124,11 @@ Server will run on: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 OWNER
 
 Made with 💻 by [ DEVEN MAHAJAN ]
+With team meMbers Ojha Vinayak,Shree Kumbhar,Gaurav More
+
 
 ---
 
